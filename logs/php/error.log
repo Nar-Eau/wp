@@ -1,0 +1,35 @@
+[20-May-2024 14:43:22 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "ax_blocks_init" not found or invalid function name in /Users/rano/Desktop/cosm-vb/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/rano/Desktop/cosm-vb/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/rano/Desktop/cosm-vb/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/rano/Desktop/cosm-vb/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#3 /Users/rano/Desktop/cosm-vb/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#4 /Users/rano/Desktop/cosm-vb/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/cosm-vb/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/cosm-vb/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/cosm-vb/app/public/wp-includes/class-wp-hook.php on line 324
+[20-May-2024 14:44:25 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/cosm-vb/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/cosm-vb/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/cosm-vb/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/cosm-vb/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/cosm-vb/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/cosm-vb/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/cosm-vb/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/cosm-vb/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/cosm-vb/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/cosm-vb/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[20-May-2024 14:44:26 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/cosm-vb/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/cosm-vb/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/cosm-vb/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/cosm-vb/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/cosm-vb/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/cosm-vb/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/cosm-vb/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/cosm-vb/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/cosm-vb/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/cosm-vb/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
