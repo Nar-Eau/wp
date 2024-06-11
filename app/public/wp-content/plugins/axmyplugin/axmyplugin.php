@@ -10,7 +10,10 @@
  * Text Domain: ax-blocks
  * Domain Path: /languages
  */
+
+require __DIR__ . '/vendor/autoload.php';
  
+
 if (!defined('ABSPATH')) {
     exit;
 }
