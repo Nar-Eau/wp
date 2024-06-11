@@ -1,0 +1,1087 @@
+[10-Jun-2024 14:39:31 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:40:16 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:40:54 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:41:03 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:42:17 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:42:55 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:43:04 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:44:18 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:44:56 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:45:05 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:45:18 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:45:41 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/edit.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:45:43 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/edit.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:45:43 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:45:44 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/edit.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:45:44 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:46:19 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:46:57 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:47:06 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:47:20 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/edit.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:47:20 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:47:26 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/edit.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:47:26 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:47:41 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/edit.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:47:41 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:47:41 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/edit.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:47:41 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:48:08 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/edit.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:48:08 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:48:09 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/edit.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:48:09 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:48:20 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:48:32 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/edit.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:48:32 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/edit.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:48:58 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/edit.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/edit.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/edit.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/edit.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:49:07 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 14:50:21 UTC] PHP Parse error:  syntax error, unexpected identifier "define" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 21
+[10-Jun-2024 14:53:00 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/includes/Singleton.php on line 30
+[10-Jun-2024 14:53:09 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "(" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/includes/Singleton.php on line 30
+[10-Jun-2024 15:02:54 UTC] PHP Warning:  require_once(/Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/includes/Singleton.php): Failed to open stream: No such file or directory in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 18
+[10-Jun-2024 15:02:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/includes/Singleton.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:18
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(517): include_once()
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#4 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 18
+[10-Jun-2024 15:03:03 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:03:03 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:03:05 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:03:14 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:03:17 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:03:42 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:04:55 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:05:06 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:05:15 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:05:18 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:05:39 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:05:40 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:05:40 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:05:40 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:05:42 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:05:42 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:05:43 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:05:43 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:05:43 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:05:44 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:05:44 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:05:44 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:05:44 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:06:21 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:06:28 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:06:28 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:06:56 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:07:07 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:07:19 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:07:22 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:07:44 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:08:05 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:08:05 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:08:06 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:08:06 UTC] PHP Fatal error:  Uncaught Error: Class "Myplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:25
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 25
+[10-Jun-2024 15:08:57 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Plugin" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/myplugin/myplugin.php on line 26
+[10-Jun-2024 15:11:28 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[10-Jun-2024 15:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[10-Jun-2024 15:12:59 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[10-Jun-2024 15:13:10 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[10-Jun-2024 15:13:25 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[10-Jun-2024 15:14:21 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[11-Jun-2024 14:30:17 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[11-Jun-2024 14:30:17 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[11-Jun-2024 14:30:19 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/index.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[11-Jun-2024 14:30:56 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[11-Jun-2024 14:30:56 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
+#7 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26

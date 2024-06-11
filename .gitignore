@@ -1,0 +1,10 @@
+node_modules
+/assets/**/*.css
+/assets/**/*.js
+package-lock.json
+pnpm-lock.yaml
+dist/
+build/
+vendor/
+.idea/*
+.vscode/*

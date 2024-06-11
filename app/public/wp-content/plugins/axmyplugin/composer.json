@@ -1,0 +1,17 @@
+{
+    "name": "rano/myplugin",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "AxMyplugin\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "axome"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^7.0"
+    }
+}
