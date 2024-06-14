@@ -67,6 +67,8 @@ function top_bar_settings_page_enqueue_scripts( $admin_page ) {
             'in_footer' => true,
         )
     );
+
+    wp_enqueue_style('wp-components');
 }
 
 add_action( 'admin_enqueue_scripts', 'top_bar_settings_page_enqueue_scripts' );
