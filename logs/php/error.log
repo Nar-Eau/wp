@@ -1085,3 +1085,426 @@ Stack trace:
 #6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/rano/Des...')
 #7 {main}
   thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[11-Jun-2024 14:48:52 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/index.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[11-Jun-2024 14:48:52 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[11-Jun-2024 14:48:52 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/index.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[11-Jun-2024 14:48:52 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[11-Jun-2024 14:49:53 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/index.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[11-Jun-2024 14:49:53 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[11-Jun-2024 14:49:54 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/index.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[11-Jun-2024 14:49:54 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/myplugin.php on line 26
+[11-Jun-2024 14:51:13 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 26
+[11-Jun-2024 14:52:18 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 26
+[11-Jun-2024 14:52:18 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 26
+[11-Jun-2024 14:52:18 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 26
+[11-Jun-2024 14:52:18 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 26
+[11-Jun-2024 15:00:50 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 26
+[11-Jun-2024 15:00:50 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 26
+[11-Jun-2024 15:00:50 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 26
+[11-Jun-2024 15:00:50 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 26
+[11-Jun-2024 15:00:51 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 26
+[11-Jun-2024 15:00:51 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 26
+[11-Jun-2024 15:00:52 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 26
+[11-Jun-2024 15:00:52 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 26
+[11-Jun-2024 15:00:52 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 26
+[11-Jun-2024 15:00:52 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:26
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 26
+[11-Jun-2024 15:01:11 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:29
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 29
+[11-Jun-2024 15:01:11 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:29
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 29
+[11-Jun-2024 15:01:12 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:29
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 29
+[11-Jun-2024 15:01:12 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:29
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 29
+[11-Jun-2024 15:01:12 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:29
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 29
+[11-Jun-2024 15:01:12 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:29
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 29
+[11-Jun-2024 15:01:13 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:29
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 29
+[11-Jun-2024 15:01:13 UTC] PHP Fatal error:  Uncaught Error: Class "Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:29
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 29
+[11-Jun-2024 15:01:57 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:27
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 27
+[11-Jun-2024 15:01:57 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:27
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 27
+[11-Jun-2024 15:01:58 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:27
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-admin/admin.php(34): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/wp-admin/plugins.php(10): require_once('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 27
+[11-Jun-2024 15:01:58 UTC] PHP Fatal error:  Uncaught Error: Class "AxMyplugin\Topbar" not found in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php:27
+Stack trace:
+#0 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(324): ax_myplugin_init('')
+#1 /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/rano/Desktop/wp-playground/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/rano/Desktop/wp-playground/app/public/wp-settings.php(550): do_action('plugins_loaded')
+#4 /Users/rano/Desktop/wp-playground/app/public/wp-config.php(103): require_once('/Users/rano/Des...')
+#5 /Users/rano/Desktop/wp-playground/app/public/wp-load.php(50): require_once('/Users/rano/Des...')
+#6 /Users/rano/Desktop/wp-playground/app/public/wp-blog-header.php(13): require_once('/Users/rano/Des...')
+#7 /Users/rano/Desktop/wp-playground/app/public/index.php(17): require('/Users/rano/Des...')
+#8 {main}
+  thrown in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 27
+[12-Jun-2024 06:28:41 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/rano/Desktop/wp-playground/app/public/wp-includes/update.php on line 211
+[12-Jun-2024 06:28:41 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/rano/Desktop/wp-playground/app/public/wp-includes/update.php on line 449
+[12-Jun-2024 06:28:41 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/rano/Desktop/wp-playground/app/public/wp-includes/update.php on line 730

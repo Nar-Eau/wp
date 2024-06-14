@@ -22,15 +22,6 @@ final class Topbar {
     }
     
     public function init() {
-        var_dump("test");
         add_action('wp_body_open', [$this, 'addHtmlStructure']);
-    }
-
-    public function addHtmlStructure() {
-        ?>
-            <div class="top-bar-container">
-                <span>Bonjour voici le texte du plugin</span>
-            </div>
-        <?php
     }
 }
