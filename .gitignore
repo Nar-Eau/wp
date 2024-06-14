@@ -8,4 +8,4 @@ build/
 vendor/
 .idea/*
 .vscode/*
-logs/
+.logs/*

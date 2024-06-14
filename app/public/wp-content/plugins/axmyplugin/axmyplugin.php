@@ -31,19 +31,45 @@ function ax_myplugin_init(): void
 
 function my_plugin_settings_page() {
     add_options_page(
-        __( 'Axome My Plugin', 'Axome My Plugin' ),
-        __( 'Axome My Plugin', 'Axome My Plugin' ),
+        __( 'Axome My Plugin', 'axome-my-plugin' ),
+        __( 'Axome My Plugin', 'axome-my-plugin' ),
         'manage_options',
-        'Axome My Plugin',
+        'axome-my-plugin',
         'ax_my_plugin_settings_page_html'
     );
 }
 
 function ax_my_plugin_settings_page_html() {
     printf(
-        '<div class="top-bar-container"><span>Bonjour voici le texte du plugin</span></div>', esc_html('Chargement...' , 'Top Bar abdelito' )
+        '<div id="top-bar-settings">%s</div>', esc_html('Chargement...' , 'axome-my-plugin' )
     );
 }
+
+function top_bar_settings_page_enqueue_scripts( $admin_page ) {
+    if ( 'settings_page_axome-my-plugin' !== $admin_page ) {
+        return;
+    }
+
+    $asset_file = plugin_dir_path(__FILE__) . 'build/index.asset.php';
+
+    if ( !file_exists( $asset_file ) ) {
+        return;
+    }
+
+    $asset = include $asset_file ;
+
+    wp_enqueue_script(
+        'axome-my-plugin-script',
+        plugins_url( 'build/index.js', __FILE__),
+        $asset['dependencies'],
+        $asset['version'],
+        array(
+            'in_footer' => true,
+        )
+    );
+}
+
+add_action( 'admin_enqueue_scripts', 'top_bar_settings_page_enqueue_scripts' );
 
 add_action( 'admin_menu', 'my_plugin_settings_page');
 

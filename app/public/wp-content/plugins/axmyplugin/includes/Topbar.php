@@ -22,6 +22,5 @@ final class Topbar {
     }
     
     public function init() {
-        add_action('wp_body_open', [$this, 'addHtmlStructure']);
     }
 }
