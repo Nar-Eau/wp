@@ -29,6 +29,48 @@ function ax_myplugin_init(): void
     AxMyplugin\Topbar::instance();
 }
 
+function top_bar_settings() {
+    $default = array(
+        'message' => __('Hello World!', 'top_bar' ),
+        'display' => true,
+        'size' => 'medium',
+    );
+    $schema = array (
+        'type' => 'object',
+        'properties' => array(
+           'message' => array(
+                'type' =>'string',
+            ),
+            'display' => array(
+                'type' => 'boolean',
+            ),
+           'size' => array(
+                'type' =>'string',
+                'enum' => array(
+                    'small',
+                    'medium',
+                    'large',
+                    'extra-large',
+                ),
+            ),
+        ),
+    );
+
+    register_setting(
+        'options',
+        'top_bar',
+        array(
+            'type' => 'object',
+            'default' => $default,
+            'show_in_rest' => array(
+                'schema' => $schema,
+            ),
+        )
+    );
+}
+
+
+
 function my_plugin_settings_page() {
     add_options_page(
         __( 'Axome My Plugin', 'axome-my-plugin' ),
@@ -70,6 +112,8 @@ function top_bar_settings_page_enqueue_scripts( $admin_page ) {
 
     wp_enqueue_style('wp-components');
 }
+
+add_action( 'init', 'top_bar_settings' );
 
 add_action( 'admin_enqueue_scripts', 'top_bar_settings_page_enqueue_scripts' );
 

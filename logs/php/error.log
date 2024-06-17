@@ -1541,3 +1541,6 @@ Stack trace:
 #4 /Users/rano/Desktop/wp-playground/app/public/wp-admin/options-general.php(10): require_once('/Users/rano/Des...')
 #5 {main}
   thrown in /Users/rano/Desktop/wp-playground/app/public/wp-includes/class-wp-hook.php on line 324
+[17-Jun-2024 07:27:43 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 37
+[17-Jun-2024 07:29:44 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 58
+[17-Jun-2024 07:31:46 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 118
