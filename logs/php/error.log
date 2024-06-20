@@ -1544,3 +1544,27 @@ Stack trace:
 [17-Jun-2024 07:27:43 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 37
 [17-Jun-2024 07:29:44 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 58
 [17-Jun-2024 07:31:46 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 118
+[17-Jun-2024 14:41:14 UTC] PHP Warning:  Undefined array key "backgroundColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 128
+[17-Jun-2024 14:41:14 UTC] PHP Warning:  Undefined array key "textColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 128
+[17-Jun-2024 14:41:56 UTC] PHP Warning:  Undefined array key "backgroundColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:41:56 UTC] PHP Warning:  Undefined array key "textColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:41:56 UTC] PHP Warning:  Undefined array key "backgroundColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:41:56 UTC] PHP Warning:  Undefined array key "textColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:41:57 UTC] PHP Warning:  Undefined array key "backgroundColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:41:57 UTC] PHP Warning:  Undefined array key "textColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:41:57 UTC] PHP Warning:  Undefined array key "backgroundColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:41:57 UTC] PHP Warning:  Undefined array key "textColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:42:02 UTC] PHP Warning:  Undefined array key "backgroundColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:42:02 UTC] PHP Warning:  Undefined array key "textColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:42:02 UTC] PHP Warning:  Undefined array key "backgroundColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:42:02 UTC] PHP Warning:  Undefined array key "textColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:42:03 UTC] PHP Warning:  Undefined array key "backgroundColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:42:03 UTC] PHP Warning:  Undefined array key "textColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:44:50 UTC] PHP Warning:  Undefined array key "backgroundColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:44:50 UTC] PHP Warning:  Undefined array key "textColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:44:51 UTC] PHP Warning:  Undefined array key "backgroundColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:44:51 UTC] PHP Warning:  Undefined array key "textColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:47:04 UTC] PHP Warning:  Undefined array key "backgroundColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:47:04 UTC] PHP Warning:  Undefined array key "textColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:47:05 UTC] PHP Warning:  Undefined array key "backgroundColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134
+[17-Jun-2024 14:47:05 UTC] PHP Warning:  Undefined array key "textColor" in /Users/rano/Desktop/wp-playground/app/public/wp-content/plugins/axmyplugin/axmyplugin.php on line 134

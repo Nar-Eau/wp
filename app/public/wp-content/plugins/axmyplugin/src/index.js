@@ -3,7 +3,7 @@ import {createRoot, useState, useEffect} from '@wordpress/element';
 import  apiFetch from '@wordpress/api-fetch';
 
 import {__} from '@wordpress/i18n';
-import { Panel, PanelBody, PanelRow, TextareaControl, ToggleControl, FontSizePicker, Button, __experimentalHeading as Heading,} from '@wordpress/components';
+import { Panel, PanelBody, PanelRow, TextareaControl, ToggleControl, FontSizePicker, Button, __experimentalHeading as Heading, ColorPicker} from '@wordpress/components';
 
 const SettingTitle = () => {
     return (
@@ -75,9 +75,18 @@ const MessageControl = ({value, onChange}) => {
     );
 };
 
+const ColorControl = ({value, onChange}) => {
+    return (
+        <ColorPicker
+            color={value}
+            onChange={onChange}
+        />
+    );
+};
+
 const SettingsPage = () => {
 
-    const { message, setMessage, display, setDisplay, size, setSize, saveSettings } = useSettings();
+    const { message, setMessage, display, setDisplay, size, setSize, backgroundColor, setBackgroundColor, textColor, setTextColor, saveSettings } = useSettings();
 
     return (
         <>
@@ -107,6 +116,20 @@ const SettingsPage = () => {
                             onChange={ ( value ) => setSize(value) } 
                         />
                     </PanelRow>
+                    <PanelRow>
+                        <div>
+                            <p>Couleur du fond</p>
+                            <ColorControl value={ backgroundColor } 
+                                        onChange={ ( color ) => setBackgroundColor(color) }
+                                    />
+                        </div>
+                        <div>
+                            <p>Couleur du texte</p>
+                            <ColorControl value={ textColor } 
+                                onChange={ ( color ) => setTextColor(color) }
+                            />
+                        </div>
+                    </PanelRow>
                 </PanelBody>
             </Panel>
             <SaveButton onClick ={ saveSettings } />
@@ -118,12 +141,17 @@ const useSettings = () => {
     const [message, setMessage] = useState('Hello, World!');
     const [ display, setDisplay] = useState(true);
     const [ size, setSize] = useState('medium');
+    const [ backgroundColor, setBackgroundColor] = useState('#ffffff');
+    const [ textColor, setTextColor] = useState('#000000');
 
     useEffect(() => {
         apiFetch({path: '/wp/v2/settings'}).then( (settings) => {
             setMessage(settings.top_bar.message);
             setDisplay(settings.top_bar.display);
             setSize(settings.top_bar.size);
+            setBackgroundColor(settings.top_bar.backgroundColor);
+            setTextColor(settings.top_bar.textColor);
+
         });
     }, []);
 
@@ -136,12 +164,14 @@ const useSettings = () => {
                     message,
                     display,
                     size,
+                    backgroundColor,
+                    textColor,
                 },
             },
         });
     };
 
-    return { message, setMessage, display, setDisplay, size, setSize, saveSettings };
+    return { message, setMessage, display, setDisplay, size, setSize, backgroundColor, setBackgroundColor, textColor, setTextColor, saveSettings };
 }
 
 

@@ -34,6 +34,8 @@ function top_bar_settings() {
         'message' => __('Hello World!', 'top_bar' ),
         'display' => true,
         'size' => 'medium',
+        'backgroundColor' => '#ffffff',
+        'textColor' => '#000000',
     );
     $schema = array (
         'type' => 'object',
@@ -52,6 +54,12 @@ function top_bar_settings() {
                     'large',
                     'extra-large',
                 ),
+            ),
+            'backgroundColor' => array(
+                'type' =>'string',
+            ),
+            'textColor' => array(
+                'type' =>'string',
             ),
         ),
     );
@@ -112,6 +120,25 @@ function top_bar_settings_page_enqueue_scripts( $admin_page ) {
 
     wp_enqueue_style('wp-components');
 }
+
+function top_bar_front_page() {
+    $options = get_option( 'top_bar' );
+
+    if ( ! $options['display'] ) {
+        return;
+    }
+
+    printf(
+        '<div style="%s">%s</div>',
+        sprintf(
+            'background:'. $options['backgroundColor'] .'; color:'. $options['textColor'] .'; padding: var(--wp--preset--spacing--20, 1.5rem); font-size: %s;',
+            esc_attr( $options['size'] )
+        ),
+        esc_html( $options['message'] )
+    );
+}
+
+add_action( 'wp_body_open', 'top_bar_front_page' );
 
 add_action( 'init', 'top_bar_settings' );
 
