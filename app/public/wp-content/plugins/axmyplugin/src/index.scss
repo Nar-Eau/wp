@@ -1,0 +1,33 @@
+.ax-top-bar {
+    span{
+        padding-right: 2em;                   /* un peu d'espace pour la transition */
+        padding-left: 100%;                   /* placement à droite du conteneur */
+        white-space: nowrap;                  /* pas de passage à la ligne */
+        animation: defilement-rtl infinite linear;
+
+        &.speed {
+            &-1{
+                animation-duration: 10s;  
+            }
+            &-2{
+                animation-duration: 20s;  
+            }
+            &-3{
+                animation-duration: 30s;  
+            }
+        }
+    }
+}
+
+@keyframes defilement-rtl {
+    0% {
+      transform: translate3d(0,0,0);      /* position initiale à droite */
+    }
+    100% {
+      transform: translate3d(-100%,0,0);  /* position finale à gauche */
+    }
+  }
+
+body {
+    background: red;
+}

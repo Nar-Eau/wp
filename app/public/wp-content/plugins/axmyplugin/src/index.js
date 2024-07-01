@@ -3,7 +3,7 @@ import {createRoot, useState, useEffect} from '@wordpress/element';
 import  apiFetch from '@wordpress/api-fetch';
 
 import {__} from '@wordpress/i18n';
-import { Panel, PanelBody, PanelRow, TextareaControl, ToggleControl, FontSizePicker, Button, __experimentalHeading as Heading, ColorPicker} from '@wordpress/components';
+import { Panel, PanelBody, PanelRow, TextareaControl, ToggleControl, FontSizePicker, Button, __experimentalHeading as Heading, ColorPicker, RadioControl} from '@wordpress/components';
 
 const SettingTitle = () => {
     return (
@@ -84,9 +84,33 @@ const ColorControl = ({value, onChange}) => {
     );
 };
 
+const SpeedControl = ({value, onChange}) => {
+    return (
+        <RadioControl
+            label={__('Vitesse', 'top-bar')}
+            selected={value}
+            onChange={onChange}
+            options={[
+                {
+                label: 'Rapide',
+                value: '1'
+                },
+                {
+                label: 'Normal',
+                value: '2'
+                },
+                {
+                label: 'Lent',
+                value: '3'
+                }
+            ]}
+        />
+    );
+};
+
 const SettingsPage = () => {
 
-    const { message, setMessage, display, setDisplay, size, setSize, backgroundColor, setBackgroundColor, textColor, setTextColor, saveSettings } = useSettings();
+    const { message, setMessage, display, setDisplay, size, setSize, backgroundColor, setBackgroundColor, textColor, setTextColor, speed, setSpeed, saveSettings } = useSettings();
 
     return (
         <>
@@ -98,8 +122,10 @@ const SettingsPage = () => {
                             value={ message } 
                             onChange={ ( value ) => setMessage(value) } 
                         />
-                    </PanelRow>
-                    <PanelRow>
+                        <SpeedControl 
+                            value={ speed } 
+                            onChange={ ( value ) => setSpeed(value) } 
+                        />
                         <DisplayControl 
                             value={ display } 
                             onChange={ ( value ) => setDisplay(value) } 
@@ -143,6 +169,7 @@ const useSettings = () => {
     const [ size, setSize] = useState('medium');
     const [ backgroundColor, setBackgroundColor] = useState('#ffffff');
     const [ textColor, setTextColor] = useState('#000000');
+    const [ speed, setSpeed] = useState('2');
 
     useEffect(() => {
         apiFetch({path: '/wp/v2/settings'}).then( (settings) => {
@@ -151,6 +178,7 @@ const useSettings = () => {
             setSize(settings.top_bar.size);
             setBackgroundColor(settings.top_bar.backgroundColor);
             setTextColor(settings.top_bar.textColor);
+            setSpeed(settings.top_bar.speed);
 
         });
     }, []);
@@ -166,12 +194,13 @@ const useSettings = () => {
                     size,
                     backgroundColor,
                     textColor,
+                    speed,
                 },
             },
         });
     };
 
-    return { message, setMessage, display, setDisplay, size, setSize, backgroundColor, setBackgroundColor, textColor, setTextColor, saveSettings };
+    return { message, setMessage, display, setDisplay, size, setSize, backgroundColor, setBackgroundColor, textColor, setTextColor, speed, setSpeed, saveSettings };
 }
 
 

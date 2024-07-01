@@ -36,6 +36,7 @@ function top_bar_settings() {
         'size' => 'medium',
         'backgroundColor' => '#ffffff',
         'textColor' => '#000000',
+        'speed' => '2',
     );
     $schema = array (
         'type' => 'object',
@@ -59,6 +60,9 @@ function top_bar_settings() {
                 'type' =>'string',
             ),
             'textColor' => array(
+                'type' =>'string',
+            ),
+            'speed' => array(
                 'type' =>'string',
             ),
         ),
@@ -100,7 +104,7 @@ function top_bar_settings_page_enqueue_scripts( $admin_page ) {
         return;
     }
 
-    $asset_file = plugin_dir_path(__FILE__) . 'build/index.asset.php';
+    $asset_file = plugin_dir_path(__FILE__) . 'build/js/index.asset.php';
 
     if ( !file_exists( $asset_file ) ) {
         return;
@@ -110,7 +114,7 @@ function top_bar_settings_page_enqueue_scripts( $admin_page ) {
 
     wp_enqueue_script(
         'axome-my-plugin-script',
-        plugins_url( 'build/index.js', __FILE__),
+        plugins_url( 'build/js/index.js', __FILE__),
         $asset['dependencies'],
         $asset['version'],
         array(
@@ -129,12 +133,11 @@ function top_bar_front_page() {
     }
 
     printf(
-        '<div style="%s">%s</div>',
+        '<div class="ax-top-bar" style="%s"><span class="speed-'. $options['speed'] .'" >' . $options['message'] . '</span></div>',
         sprintf(
             'background:'. $options['backgroundColor'] .'; color:'. $options['textColor'] .'; padding: var(--wp--preset--spacing--20, 1.5rem); font-size: %s;',
             esc_attr( $options['size'] )
         ),
-        esc_html( $options['message'] )
     );
 }
 
